@@ -6,5 +6,6 @@
 ![sodosankhau](./henyeu1.jpg)
 # TRUNG QUÂN - TĂNG PHÚC
 # Thời gian: 03.01.2026
-# Địa điểm: Bảo Tàng Hà Nội, Đường Phạm Hùng, Hà Nội
+# Địa điểm: Sân khấu view Hồ Nước Bảo Tàng Hà Nội
+# Đường Phạm Hùng, Hà Nội
 ![sodosankhau](./henyeudi1.jpg)
