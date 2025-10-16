@@ -3,4 +3,4 @@
 # Địa điểm: Bảo Tàng Hà Nội, Đ. Phạm Hùng, Hà Nội
 
 ![poster](./poster.png)
-![sodosankhau](./sodosankhau.png)
+![sodosankhau](./henyeudi.jpg)
