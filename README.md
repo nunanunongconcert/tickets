@@ -4,4 +4,3 @@
 
 ![poster](./poster.png)
 ![sodosankhau](./sodosankhau.png)
-![sodosankhau](./loa.jpg)
