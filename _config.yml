@@ -1,3 +1,4 @@
-theme: jekyll-theme-time-machine
+# theme: jekyll-theme-time-machine
+theme: minimal-mistakes-jekyll
 title: Concert tickets
 description: Best concert tickets
