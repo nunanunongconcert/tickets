@@ -4,3 +4,4 @@
 
 ![poster](./poster.png)
 ![sodosankhau](./sodosankhau.png)
+![sodosankhau](./hinhthe24.06.2024.png)
