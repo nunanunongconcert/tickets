@@ -1,4 +1,4 @@
-![poster](./poster.png)
+![poster](./poster.jpg)
 # TRUNG QUÂN - TĂNG PHÚC
 # Thời gian: 03.01.2026
 # Địa điểm: Bảo Tàng Hà Nội, Đường Phạm Hùng, Hà Nội
