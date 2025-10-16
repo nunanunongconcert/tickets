@@ -2,7 +2,7 @@
 # TRUNG QUÂN - TĂNG PHÚC
 # Thời gian: 03.01.2026
 # Địa điểm: Bảo Tàng Hà Nội, Đường Phạm Hùng, Hà Nội
-![sodosankhau](./henyeudi.jpg)
+![sodosankhau](./henyeudi1.jpg)
 # QUỐC THIÊN - PHƯƠNG PHƯƠNG THẢO
 # Thời gian: 06.12.2026
 # Địa điểm: Nhà hát Âu Cơ
