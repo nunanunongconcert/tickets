@@ -8,4 +8,4 @@
 # Thời gian: 03.01.2026
 # Địa điểm: Sân khấu view Hồ Nước Bảo Tàng Hà Nội
 # Đường Phạm Hùng, Hà Nội
-![sodosankhau](./henyeudi.jpg)
+![sodosankhau](./henyeudi2.jpg)
