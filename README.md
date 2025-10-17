@@ -1,6 +1,6 @@
 ![poster](./poster1.jpg)
 # QUỐC THIÊN - PHƯƠNG PHƯƠNG THẢO
-# Thời gian: 06.12.2026
+# Thời gian: 06.12.2025
 # Địa điểm: Nhà hát Âu Cơ
 # Số 8 Huỳnh Thúc Kháng, Ba Đình, Hà Nội
 ![sodosankhau](./henyeu1.jpg)
