@@ -3,7 +3,7 @@
 # Thời gian: 06.12.2025
 # Địa điểm: Nhà hát Âu Cơ
 # Số 8 Huỳnh Thúc Kháng, Ba Đình, Hà Nội
-![sodosankhau](./henyeu.jpg)
+![sodosankhau](./henyeu1.jpg)
 # TRUNG QUÂN - TĂNG PHÚC
 # Thời gian: 03.01.2026
 # Địa điểm: Sân khấu view Hồ Nước Bảo Tàng Hà Nội
